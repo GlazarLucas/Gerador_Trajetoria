@@ -5,6 +5,8 @@ from Funcoes_Auxiliares_Funcoes_Geometricas import *
 
 ''' Area de Testes '''
 
+'''Nada de novo somente um teste para criar uma nova branch no git.'''
+
 num_pontos_reta= 100
 num_pontos_curva = 100
 origem = [0,0]
